@@ -18,4 +18,6 @@ shama.yaw.position.set(0, 10, 0);
 shama.possess();
 
 var clouds = require('../')(game);
-game.on('tick', clouds.tick(dt).bind(clouds));
+game.on('tick', function(dt) {
+  clouds.tick(dt);
+});
