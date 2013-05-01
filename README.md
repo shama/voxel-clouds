@@ -4,7 +4,7 @@ Clouds for [voxel.js](http://voxeljs.com).
 
 # example
 
-[View this example](http://shama.github.com/voxel-clouds)
+[View this example](http://shama.github.io/voxel-clouds)
 
 ```js
 // create a clouds
