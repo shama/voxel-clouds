@@ -32,7 +32,7 @@ var clouds = require('voxel-clouds')({
     fog: false,
     transparent: true,
     opacity: 0.5,
-  });
+  }),
 });
 
 // on tick, move the clouds
