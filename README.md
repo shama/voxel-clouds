@@ -62,6 +62,7 @@ npm install voxel-clouds
 Use [browserify](http://browserify.org) to `require('voxel-clouds')`.
 
 ## release history
+* 0.2.0 - update deps
 * 0.1.0 - initial release
 
 ## license
